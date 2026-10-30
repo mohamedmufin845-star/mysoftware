@@ -1,0 +1,16 @@
+
+name: mufin_billing
+description: Mufin Business Billing Software
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.4.2
